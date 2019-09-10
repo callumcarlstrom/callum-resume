@@ -1,0 +1,189 @@
+body {
+	color: grey;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+h1.display-4,
+h2.display-4,
+h3 {
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: bold;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+h4 {
+	font-family: 'Saira Extra Condensed', sans-serif;
+	color: black;
+	font-weight: bold;
+}
+
+.profile-pic {
+	height: 336px;
+    float: right;
+    margin-right: -30px;
+    margin-left: 7px;
+    margin-top: 25px;
+    border: 0.5rem solid rgb(243, 243, 243);
+}
+
+.test-pic {
+	height: 120px;
+}
+
+section.resume {
+	padding-top: 6rem !important;
+  	padding-bottom: 6rem !important;
+  	max-width: 75rem;
+}
+
+.subheading {
+	font-size: 22px;
+}
+
+span.last,
+.mail,
+.dates {
+	color: #d27a07;
+}
+
+.mail:hover {
+	color:#d27a07;;
+}
+
+.dates {
+	margin-right: 105px;
+}
+nav.navbar {
+	background-color: #d27a07;
+}
+
+.info {
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.resume-content {
+	width: 520px;
+}
+
+.list-inline-item {
+	font-size: 50px;
+}
+
+.list-inline-item:hover {
+	color: #d27a07;
+}
+
+nav.navbar {
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: bold;
+
+}
+
+div.intro-para {
+	width: 750px;
+}
+
+div.projects {
+	text-align: center;
+	width: 350px;
+}
+
+button.git-btn {
+	border-radius: 10px;
+}
+
+button.git-btn:hover {
+	color: #dd5638;
+}
+
+button.visit:hover {
+	background-color: #643900;
+}
+
+.project-img {
+	width: 300px;
+	height: 200px;
+	border: 1px solid #9b9b9b;
+    border-radius: 16px;
+    margin-bottom: 15px;
+}
+
+h5.project-title {
+	color:black;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+/* FB and Google Ads Numbers */
+div.bubbles {
+	width: 750px;
+}
+
+p.ads {
+	width: 750px;
+}
+
+#skills .col-xs-4 {
+	padding: 15px;
+}
+
+#skills .num {
+    display: table;
+    font-size: 18px;
+	font-weight: bold;
+	font-family:'Saira Extra Condensed', sans-serif; 
+    color: white;
+    line-height: 24px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background: #dd5638;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+}
+
+#skills .num .num-content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#skills .num span {
+	display: block;
+	font-family:'Saira Extra Condensed', sans-serif; 
+    font-size: 16px;
+    font-weight: normal;
+}
+
+#skills .platform {
+	display: table;
+    font-size: 35px;
+	font-weight: bold;
+	font-family:'Saira Extra Condensed', sans-serif; 
+    color: white;
+    line-height: 24px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background: #8b8b8b;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+}
+
+#skills .platform {
+	display: table-cell;
+    vertical-align: middle;
+}
+
+
+
